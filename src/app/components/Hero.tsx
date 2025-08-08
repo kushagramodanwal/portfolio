@@ -11,7 +11,7 @@ const Hero = () => {
 						Kushagra Modanwal
 					</h1>
 					<p className="text-center text-gray-500 w-1/2 mx-auto md:w-full dark:text-dark-secondary">
-						A full stack developer, who loves all things web and chess.
+						A full stack developer, who loves all things web and plays chess.
 					</p>
 					<div className="flex gap-2 sm:flex-col ">
 						<a href="mailto:kushagramodanwal@gmail.com">
