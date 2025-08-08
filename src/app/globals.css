@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.dark-filter {
+		filter: invert(96%) sepia(8%) saturate(1454%) hue-rotate(314deg)
+			brightness(106%) contrast(101%);
+	}
+}
