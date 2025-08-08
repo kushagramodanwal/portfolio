@@ -19,7 +19,7 @@ const Hero = () => {
 								Get in touch
 							</button>
 						</a>
-						<a href="/resume.pdf" target="blank">
+						<a href="/KushagraResume.pdf" target="blank">
 							<button className="bg-black py-2 px-12 rounded text-white dark:dark-filter">
 								Resume
 							</button>
