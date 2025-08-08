@@ -1,6 +1,5 @@
 # Kushagra Modanwal's Portfolio
 
-![Website Screenshot](https://ik.imagekit.io/utkarsh1311/portfolio.png?updatedAt=1720704694439)
 
 Welcome to my personal portfolio website! This site showcases my work, skills, and professional experience as a full-stack developer.
 
@@ -51,7 +50,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 You can reach me via:
 - **Email**: [kushagramodanwal@gmail.com](mailto:kushagramodanwal@gmail.com)
-- **LinkedIn**: [linkedin.com/in/utkarsh-maurya](https://linkedin.com/in/utkarsh-maurya)
 
 Thank you for visiting my portfolio!
 # portfolio
