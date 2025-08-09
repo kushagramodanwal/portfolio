@@ -40,7 +40,7 @@ const Experience = () => {
 				*/}
 
 			<p className="text-gray-600 dark:text-dark-secondary text-2xl">
-	Abhi to jeevan start hua hai
+	Working.....
 </p>
 
 			</div>
