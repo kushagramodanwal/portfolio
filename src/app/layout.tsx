@@ -20,13 +20,14 @@ export const metadata: Metadata = {
     url: 'https://kushagra-modanwal.vercel.app/',
 	siteName: 'Kushagra Modanwal | Portfolio',
     images: [
-      {
-        url: 'file:///Users/kushagramodanwal/Desktop/Screenshot%202025-08-09%20at%2011.46.36%E2%80%AFPM.png', // Must be an absolute URL
-        width: 1800,
-        height: 1600,
-        alt: 'Kushagra Modanwal portfolio website image',
-      },
-    ],
+  {
+    url: 'https://kushagra-modanwal.vercel.app/og-image.png',
+    width: 1800,
+    height: 1600,
+    alt: 'Kushagra Modanwal portfolio website image',
+  },
+],
+
     locale: 'en_US',
     type: 'website',
 	},
