@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 	siteName: 'Kushagra Modanwal | Portfolio',
     images: [
       {
-        url: 'https://ik.imagekit.io/utkarsh1311/portfolio.png?updatedAt=1720704694439', // Must be an absolute URL
+        url: 'file:///Users/kushagramodanwal/Desktop/Screenshot%202025-08-09%20at%2011.46.36%E2%80%AFPM.png', // Must be an absolute URL
         width: 1800,
         height: 1600,
         alt: 'Kushagra Modanwal portfolio website image',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: 'Kushagra Modanwal',
     description: 'I\'m Kushagra Modanwal, a software engineer who loves to build things for the web. I specialize in building high-quality websites and applications with a focus on performance and user experience.',
     creator: '@kushaark',
-    images: ['file:///Users/kushagramodanwal/Desktop/Screenshot%202025-08-09%20at%2011.46.36%E2%80%AFPM.png'], // Must be an absolute URL
+    images: [''], // Must be an absolute URL
 	},
 	category: "Portfolio",
 	
