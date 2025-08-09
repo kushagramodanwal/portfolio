@@ -17,8 +17,8 @@ export const metadata: Metadata = {
 	openGraph: {
     title: 'Kushagra Modanwal',
     description: 'I\'m Kushagra Modanwal, a software engineer who loves to build things for the web. I specialize in building high-quality websites and applications with a focus on performance and user experience.',
-    url: 'https://utkarshmaurya.me',
-    siteName: 'Utkarsh\'s Portfolio',
+    url: 'https://kushagra-modanwal.vercel.app/',
+	siteName: 'Kushagra Modanwal | Portfolio',
     images: [
       {
         url: 'https://ik.imagekit.io/utkarsh1311/portfolio.png?updatedAt=1720704694439', // Must be an absolute URL
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
 	twitter: {
     title: 'Kushagra Modanwal',
     description: 'I\'m Kushagra Modanwal, a software engineer who loves to build things for the web. I specialize in building high-quality websites and applications with a focus on performance and user experience.',
-    creator: '@coder_utkarsh',
-    images: ['https://ik.imagekit.io/utkarsh1311/portfolio.png?updatedAt=1720704694439'], // Must be an absolute URL
+    creator: '@kushaark',
+    images: ['file:///Users/kushagramodanwal/Desktop/Screenshot%202025-08-09%20at%2011.46.36%E2%80%AFPM.png'], // Must be an absolute URL
 	},
 	category: "Portfolio",
 	
