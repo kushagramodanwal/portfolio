@@ -8,16 +8,16 @@ const Projects = () => {
       unfinished: false,
       description:
         "snake.69 is a Snake game built in C using the ncurses library for terminal graphics and input handling. Control the snake, eat food, and avoid collisions. A fun project to practice C programming, game logic, and explore ncurses for enhanced terminal-based user interfaces..",
-      techStack: ["C", "Ncurses", "stdlib.h", "unistd.h", "POSIX System Calls"],
+      techStack: ["C", "Ncurses"],
       github: "https://github.com/kushagramodanwal/classicsnake",
-      website: "/",
+      website: "",
     },
     {
       name: "UNI TASK HUB (In Development)",
       unfinished: true,
       description:
         "A task exchange platform for university students to post and swap tasks. Built using React, Clerk Authentication, Node.js, and MongoDB. Features include user authentication, task posting, browsing, and status updates. Designed with a responsive UI and a consistent navigation experience.",
-      techStack: ["React", "Clerk Authentication", "Node.js", "MongoDB", "Responsive UI"],
+      techStack: ["React", "Clerk Authentication", "Node.js", "MongoDB"],
       github: "",
       website: "",
     },
@@ -26,16 +26,19 @@ const Projects = () => {
       unfinished: false,
       description:
         "Developed a JavaScript Chrome extension that ensures only one YouTube video plays at a time across all browser tabs, preventing overlapping audio. Leveraged service workers for seamless background synchronization and handled YouTube’s dynamic single-page application navigation. Implemented automatic playback switching between tabs to improve user experience and optimize browser resource usage.",
-      techStack: ["JavaScript", "Chrome Extension", "Service Workers"],
+      techStack: ["JavaScript", "Chrome Extension"],
       github: "https://github.com/kushagramodanwal/soloplay",
       website: "",
     },
-    {
-      name: "Abhi kaam chal raha hai !!!",
-      unfinished: true,
-      description: "",
-      techStack: [],
-    },
+   {
+    name: "Portfolio Website",
+      unfinished: false,
+      description: "A modern and visually engaging personal portfolio website showcasing my professional journey, technical skills, and creative projects. Built with React and Tailwind CSS, it features smooth animations, interactive components, and well-structured sections for skills, projects, and achievements. Deployed on Vercel for fast performance and global reach.",
+      techStack: ["React", "Tailwind CSS"],
+      github: "https://github.com/kushagramodanwal/portfolio",
+      website: "https://kushagra-modanwal.vercel.app/",
+  },
+
   ];
 
   return (
