@@ -3,14 +3,14 @@ import { Fade } from "react-awesome-reveal";
 
 const Projects = () => {
   const projects = [
+
     {
-      name: "classicSnake",
+      name: "Portfolio Website",
       unfinished: false,
-      description:
-        "snake.69 is a Snake game built in C using the ncurses library for terminal graphics and input handling. Control the snake, eat food, and avoid collisions. A fun project to practice C programming, game logic, and explore ncurses for enhanced terminal-based user interfaces..",
-      techStack: ["C", "Ncurses"],
-      github: "https://github.com/kushagramodanwal/classicsnake",
-      website: "",
+      description: "A modern and visually engaging personal portfolio website showcasing my professional journey, technical skills, and creative projects. Built with React and Tailwind CSS, it features smooth animations, interactive components, and well-structured sections for skills, projects, and achievements. Deployed on Vercel for fast performance and global reach.",
+      techStack: ["React", "Tailwind CSS"],
+      github: "https://github.com/kushagramodanwal/portfolio",
+      website: "https://kushagra-modanwal.vercel.app/",
     },
     {
       name: "UNI TASK HUB (In Development)",
@@ -22,6 +22,16 @@ const Projects = () => {
       website: "",
     },
     {
+      name: "classicSnake",
+      unfinished: false,
+      description:
+        "snake.69 is a Snake game built in C using the ncurses library for terminal graphics and input handling. Control the snake, eat food, and avoid collisions. A fun project to practice C programming, game logic, and explore ncurses for enhanced terminal-based user interfaces..",
+      techStack: ["C", "Ncurses"],
+      github: "https://github.com/kushagramodanwal/classicsnake",
+      website: "",
+    },
+
+    {
       name: "SoloPlay",
       unfinished: false,
       description:
@@ -30,14 +40,6 @@ const Projects = () => {
       github: "https://github.com/kushagramodanwal/soloplay",
       website: "",
     },
-   {
-    name: "Portfolio Website",
-      unfinished: false,
-      description: "A modern and visually engaging personal portfolio website showcasing my professional journey, technical skills, and creative projects. Built with React and Tailwind CSS, it features smooth animations, interactive components, and well-structured sections for skills, projects, and achievements. Deployed on Vercel for fast performance and global reach.",
-      techStack: ["React", "Tailwind CSS"],
-      github: "https://github.com/kushagramodanwal/portfolio",
-      website: "https://kushagra-modanwal.vercel.app/",
-  },
 
   ];
 
