@@ -32,11 +32,8 @@ const Skills = () => {
               </h3>
               <ul className="flex gap-x-4 flex-wrap text-black dark:text-white">
                 {[
-                  "Next.js",
                   "React",
-                  "React Router Dom",
                   "TailwindCSS",
-                  "Bootstrap",
                   "HTML",
                   "CSS"
                 ].map(lang => (

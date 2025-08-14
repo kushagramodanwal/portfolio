@@ -3,7 +3,7 @@ import { Fade } from "react-awesome-reveal";
 const AboutMe = () => {
   return (
     <div className="flex flex-col-reverse md:flex-row items-center py-16 md:py-36 gap-8 bg-white dark:bg-black px-4">
-      
+
       {/* Text Section */}
       <div className="flex-1 flex flex-col gap-4">
         <Fade triggerOnce cascade damping={0.4} delay={500}>
@@ -40,12 +40,13 @@ const AboutMe = () => {
               ].map((icon, idx) => (
                 <a key={idx} href={icon.href}>
                   <img
-                    className="hover:scale-125 transition-all duration-150"
+                    className="hover:scale-125 transition-all duration-150 dark:invert"
                     src={icon.src}
                     width={30}
                     height={30}
                     alt={`${icon.alt} icon`}
                   />
+
                 </a>
               ))}
             </div>

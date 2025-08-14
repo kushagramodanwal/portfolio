@@ -33,7 +33,7 @@ const Hero = () => {
           width={50}
           height={50}
           alt="arrow"
-          className="relative animate-bounce -bottom-48 sm:-bottom-36"
+          className="relative animate-bounce -bottom-48 sm:-bottom-36 dark:invert"
         />
       </div>
     </div>
