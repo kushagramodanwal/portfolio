@@ -35,8 +35,7 @@ Deployed on **Vercel** for fast performance and global reach.
 ---
 
 ## 📸 Preview
-![Portfolio Preview](preview.gif)  
-*(Replace `preview.png` with your actual GIF or screenshot)*
+![Portfolio Preview](preview.png)  
 
 ---
 
