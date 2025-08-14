@@ -65,7 +65,7 @@ const Projects = () => {
                         width={30}
                         height={30}
                         alt="link to the github repo of project"
-                        className="hover:scale-125 transition-all duration-150"
+                        className="hover:scale-125 transition-all duration-150 dark:invert"
                       />
                     )}
                   </a>
@@ -76,7 +76,7 @@ const Projects = () => {
                         width={30}
                         height={30}
                         alt="link to the live project"
-                        className="hover:scale-125 transition-all duration-150"
+                        className="hover:scale-125 transition-all duration-150 dark:invert"
                       />
                     )}
                   </a>
